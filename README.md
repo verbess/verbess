@@ -7,7 +7,7 @@
     <br />
   </samp>
   <br />
-  <img src="https://raw.githubusercontent.com/Verbess/Verbess/master/Assets/mgsv.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/Verbess/Verbess/master/Assets/mgsv.gif" alt="via: GIPHY/Paul Robertson" width="200" />
 </p>
 
 <details align="center">
