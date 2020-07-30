@@ -1,6 +1,6 @@
-### Hello there! Kept you waiting, huh?👋
+### Hello there 👋
 
-Hi, I'm Verbess, working hard to become a game designer.
+Hi, I'm Verbess, working hard to become a game designer 👾
 
 - 🔭 I’m currently working on a game project.
 - 🌱 I’m currently learning C# & Unity.
